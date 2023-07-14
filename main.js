@@ -15,7 +15,7 @@ function setup()
 
 function draw()
 {
-    Image(video, 0, 0, 500, 420);
+    image(video, 0, 0, 500, 420);
     tint(tintColor);
 }
 
